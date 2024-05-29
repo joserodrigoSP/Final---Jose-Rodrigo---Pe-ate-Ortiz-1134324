@@ -1,0 +1,14 @@
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\bin\Debug\net8.0\FINAL.exe
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\bin\Debug\net8.0\FINAL.deps.json
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\bin\Debug\net8.0\FINAL.runtimeconfig.json
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\bin\Debug\net8.0\FINAL.dll
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\bin\Debug\net8.0\FINAL.pdb
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\FINAL.AssemblyInfoInputs.cache
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\FINAL.AssemblyInfo.cs
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\FINAL.dll
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\refint\FINAL.dll
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\FINAL.pdb
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\FINAL.genruntimeconfig.cache
+C:\Users\jrodr\OneDrive\Escritorio\pc\FINAL\obj\Debug\net8.0\ref\FINAL.dll
